@@ -1,0 +1,2 @@
+# cpi-inflation
+cpi inflation
